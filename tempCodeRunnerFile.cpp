@@ -1,0 +1,1 @@
+ cout<<c<<st.top()<<endl;
