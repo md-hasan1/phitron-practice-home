@@ -1,7 +1,1 @@
-NO
-YES
-NO
-NO
-NO
-NO
-NO
+10 20 30 40 50 60 
